@@ -337,9 +337,15 @@ For a student, this project is a strong example of how digital design progresses
 
 ## Author
 
-**Dhyan**
-ECE, Government Engineering College, Gandhinagar
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/dhyanmehta/)
+**Dhyan Mehta**
+B.E. ECE
 
+[![GitHub](https://img.shields.io/badge/GitHub-DhyanMehta-black?style=for-the-badge\&logo=github)](https://github.com/Devnmakwana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhyan%20Mehta-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/dhyanmehta/)
+
+</div>
+
+---
 
