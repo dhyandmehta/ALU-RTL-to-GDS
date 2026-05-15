@@ -338,7 +338,7 @@ For a student, this project is a strong example of how digital design progresses
 ## Author
 
 **Dhyan**
-ECE Student, Government Engineering College, Gandhinagar
+ECE, Government Engineering College, Gandhinagar
 
 [LinkedIn](https://www.linkedin.com/in/dhyanmehta/)
 
