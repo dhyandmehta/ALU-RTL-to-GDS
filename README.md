@@ -261,23 +261,28 @@ ALU_Project/
 
 ### GTKWave Simulation
 
-[![GTKWave](GTK%20Wave.jpeg)](https://github.com/Devnmakwana/ALU-RTL-to-GDS/blob/main/GTK%20Wave.jpeg)
+<img width="1600" height="1008" alt="image" src="https://github.com/user-attachments/assets/9c60d368-8ce8-4745-9a38-6f7d7ce43eda" />
+
 
 ### Yosys Schematic
 
-[![Schematic](schemetic.jpeg)](https://github.com/Devnmakwana/ALU-RTL-to-GDS/blob/main/schemetic.jpeg)
+<img width="1600" height="1040" alt="image" src="https://github.com/user-attachments/assets/9fe912af-b68c-4ba1-8861-2b2ac78f822f" />
+
 
 ### KLayout GDS Layout
 
-[![Layout](layout.jpeg)](https://github.com/Devnmakwana/ALU-RTL-to-GDS/blob/main/layout.jpeg)
+<img width="1916" height="1181" alt="image" src="https://github.com/user-attachments/assets/a37f6474-0b28-41b0-97ae-a0f98c8dfccc" />
+
 
 ### Synthesis Report
 
-[![Synthesis](synthesis.jpeg)](https://github.com/Devnmakwana/ALU-RTL-to-GDS/blob/main/synthesis.jpeg)
+<img width="1600" height="1138" alt="image" src="https://github.com/user-attachments/assets/e2ae4c64-7028-49c0-9f50-bced3fad7ef4" />
+
 
 ### NGSpice CMOS Inverter Simulation
 
-[![NGSpice](ngspice.jpeg)](https://github.com/Devnmakwana/ALU-RTL-to-GDS/blob/main/ngspice.jpeg)
+<img width="1824" height="1115" alt="image" src="https://github.com/user-attachments/assets/e10f84d1-0408-4552-aa5b-95b6870be0de" />
+
 
 The screenshots provide visual confirmation of:
 
@@ -330,29 +335,12 @@ For a student, this project is a strong example of how digital design progresses
 
 ---
 
-## Possible Extensions
-
-The design can be extended in several directions:
-
-* add carry, zero, overflow, and sign flags,
-* increase operand width from 8-bit to 16-bit or 32-bit,
-* support rotate operations,
-* include comparison operations,
-* pipeline the ALU for higher performance,
-* integrate the ALU into a simple CPU datapath,
-* improve verification with assertion-based testbenches,
-* perform timing analysis under different constraints.
-
-These extensions would increase architectural complexity and make the project more suitable for advanced processor design exploration.
-
----
-
 ## Author
 
-**Dev Makwana**
+**Dhyan**
 ECE Student, Government Engineering College, Gandhinagar
 
-[LinkedIn](https://linkedin.com/in/dev-makwana-a8815129a)
+[LinkedIn](https://www.linkedin.com/in/dhyanmehta/)
 
 ---
 
