@@ -342,8 +342,4 @@ ECE Student, Government Engineering College, Gandhinagar
 
 [LinkedIn](https://www.linkedin.com/in/dhyanmehta/)
 
----
 
-⭐ If this project helped you understand RTL-to-GDS design, consider starring the repository.
-
-```
